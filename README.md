@@ -5,4 +5,6 @@ Include rules for tasks in Russian Final Exam
 
 # Tasks 
 
+## - [Task 1](./CheatSheets/1%20задание.md)
+
 ## - [Task 7](./CheatSheets/7%20задание.md)
