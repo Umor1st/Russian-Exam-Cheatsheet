@@ -11,5 +11,7 @@ Include rules for tasks in Russian Final Exam
 
 ## - [Task 7](./CheatSheets/7%20задание.md)
 
+## - [Task 21](./CheatSheets/21%20задание.md)
+
 ## - [Task 26](./CheatSheets/26%20задание.md)
 
